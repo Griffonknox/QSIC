@@ -1,5 +1,5 @@
 # Sne_Spectra
-This Read Me is an attempt to help the user walk through the process that was implmented for Spectral SNe Analysis in Summer 2019.  STSci Summer internship
+This Read Me is an attempt to help the user walk through the process that was implemented for Spectral SNe Analysis in Summer 2019.  STSci Summer internship
 
 Contents:
 1. Red Shift Calibration
